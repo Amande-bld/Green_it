@@ -93,6 +93,9 @@ const formattedDeadline = computed(() => {
       {{ task.folder_name || task.group_name }}
     </p>
 
-    <TaskPopup :show="showTaskPopup" :task="task" @close="showTaskPopup = false"/>
   </div>
+
+  <Teleport to="body">
+    <TaskPopup :show="showTaskPopup" :task="task" @close="showTaskPopup = false"/>
+  </Teleport>
 </template>

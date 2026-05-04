@@ -71,6 +71,9 @@ onMounted(() => {
       </button>
     </div>
 
-    <ProfilePopup :show="showProfilePop" @close="showProfilePop = false"/>
   </div>
+
+  <Teleport to="body">
+    <ProfilePopup :show="showProfilePop" @close="showProfilePop = false"/>
+  </Teleport>
 </template>
