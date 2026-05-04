@@ -16,11 +16,11 @@
 
 | Nom | Rôle |
 |-----|------|
-| **Amandine BLANCHARD** | Authentification — inscription, login, logout, vérification du token JWT, connexion à la base de données MySQL et schéma SQL |
-| **Daniel ALEKSIC** | Gestion des tâches — création, modification, suppression, affichage des tâches, organisation en dossiers |
+| **Amandine BLANCHARD** | Authentification : inscription, login, logout, vérification du token JWT, connexion à la base de données MySQL et schéma SQL |
+| **Daniel ALEKSIC** | Gestion des tâches : création, modification, suppression, affichage des tâches, organisation en dossiers |
 | **Peïo CASTETS** | Groupes et chat — messagerie instantanée via Socket.IO, création et gestion de groupes, store Pinia pour la gestion de l'état global |
-| **Thomas BRANDY** | Interface utilisateur — page d'accueil, login, signup, dashboard principal, barre latérale, barre du haut, configuration du router Vue et des appels API avec Axios |
-| **Alexandre BRENSKI** | Admin et carbone — gestion des utilisateurs depuis le panel admin, calcul de l'empreinte carbone, gestion du profil utilisateur |
+| **Thomas BRANDY** | Interface utilisateur : page d'accueil, login, signup, dashboard principal, barre latérale, barre du haut, configuration du router Vue et des appels API avec Axios |
+| **Alexandre BRENSKI** | Admin et carbone : gestion des utilisateurs depuis le panel admin, calcul de l'empreinte carbone, gestion du profil utilisateur |
 
 ---
 
@@ -162,7 +162,7 @@ Green_it/
 
 ## Rapport PDF
 
-[https://docs.google.com/document/d/10__roLSDTOMZPs1Sr8gqW6zFsqCy7UEctD7-O3gLtks/edit?usp=sharing](./rapport_green_it.pdf)
+[Tou-Doux – Numérique Durable](./docs/Tou-Doux%20%E2%80%93%20Num%C3%A9rique%20Durable%20.pdf)
 
 ---
 
