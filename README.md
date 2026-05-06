@@ -18,7 +18,7 @@
 |-----|------|
 | **Amandine BLANCHARD** | Authentification : inscription, login, logout, vérification du token JWT, connexion à la base de données MySQL et schéma SQL |
 | **Daniel ALEKSIC** | Gestion des tâches : création, modification, suppression, affichage des tâches, organisation en dossiers |
-| **Peïo CASTETS** | Groupes et chat — messagerie instantanée via Socket.IO, création et gestion de groupes, store Pinia pour la gestion de l'état global |
+| **Peïo CASTETS** | Groupes et chat : messagerie instantanée via Socket.IO, création et gestion de groupes, store Pinia pour la gestion de l'état global |
 | **Thomas BRANDY** | Interface utilisateur : page d'accueil, login, signup, dashboard principal, barre latérale, barre du haut, configuration du router Vue et des appels API avec Axios |
 | **Alexandre BRENSKI** | Admin et carbone : gestion des utilisateurs depuis le panel admin, calcul de l'empreinte carbone, gestion du profil utilisateur |
 
