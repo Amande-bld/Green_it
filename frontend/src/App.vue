@@ -3,7 +3,6 @@ import Toast from '@/components/Toast.vue'
 </script>
 
 <template>
-  <!-- Decorative background blobs (fixed, behind everything) -->
   <div class="fixed inset-0 pointer-events-none overflow-hidden" aria-hidden="true" style="z-index:-1">
     <div class="absolute -top-48 -right-48 w-[520px] h-[520px] rounded-full"
          style="background:radial-gradient(circle,rgba(134,239,172,0.22) 0%,transparent 70%);filter:blur(70px)"></div>
